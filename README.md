@@ -11,4 +11,4 @@ These instances were used in The Second Parameterized Algorithms and Computation
 ## Further Links
 
 - All of the _exact_ instances in this instance set are now considered easy. After the conclusion of the challenge, a significantly harder, [bonus instance set](//github.com/PACE-challenge/Treewidth-PACE-2017-bonus-instances) has been created.
-- There is also a [list of treewidth solvers, instances, and tools](//github.com/PACE-challenge/Treewidth).
+- There is a [list of treewidth solvers, instances, and tools](//github.com/PACE-challenge/Treewidth), which also describes the .gr and .td formats.
