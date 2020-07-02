@@ -8,6 +8,8 @@ These instances were used in The Second Parameterized Algorithms and Computation
 
 [td/exact/](td/exact/) contains optimal tree decompositions for the _exact_ instances.
 
+The instances are released under the [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/).
+
 ## Further Links
 
 - All of the _exact_ instances in this instance set are now considered easy. After the conclusion of the challenge, a significantly harder, [bonus instance set](//github.com/PACE-challenge/Treewidth-PACE-2017-bonus-instances) has been created.
